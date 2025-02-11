@@ -1,7 +1,7 @@
 Valentina Mellar
 ---
 
-designing, building & automating reliable and secure infrastructure @advastore
+designing, building & automating reliable and secure infrastructure.
 
 ---
 
